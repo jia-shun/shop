@@ -1,2 +1,2 @@
-# shop
-shop front by vue
+# Shop
+Shop front by vue
